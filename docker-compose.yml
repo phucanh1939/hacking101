@@ -1,0 +1,5 @@
+services:
+  vm:
+    image: phucanh1939/linux-gcc-gdb:v1.0
+    volumes:
+      - ./:/learning/hacking
